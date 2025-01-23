@@ -5,9 +5,6 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VoNW96d3BwZzdibWJ2ZHBzM2hwZTNvcTVzNjNyb2hld3drM2oxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.webp" width="30px">&nbsp;***About me***
 
 I am a Computer Science student with three years of experience in Electronic Engineering. I am currently honing my skills in both front-end and back-end development and actively seeking opportunities as a developer. I have a deep passion for technology, electronics, and 3D design, and I am always eager to learn, create, and bring innovative ideas to life.
-- 🌱 I’m currently learning ...
-  - REACT
-  - Cypress
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside of tech, I love exploring 3D design, 📱 diving into mobile applications, 🎮 playing video games, and 📖 reading about habits and personal growth.
